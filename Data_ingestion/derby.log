@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jan 23 14:52:40 GMT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-018d-36cf-1e0d-000001d21ef0 
+on database directory /home/shah476/PycharmProjects/Data_ingestion/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5ffd2b27 
+Loaded from file:/home/shah476/PycharmProjects/Data_ingestion/.venv/lib/python3.10/site-packages/pyspark/jars/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=17.0.9+9-Ubuntu-122.04
+user.dir=/home/shah476/PycharmProjects/Data_ingestion
+os.name=Linux
+os.arch=amd64
+os.version=5.15.133.1-microsoft-standard-WSL2
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
